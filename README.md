@@ -1,8 +1,6 @@
 ### Hi there I'm Shawn👋
 
-![](https://images.squarespace-cdn.com/content/v1/6063b0835f68896079d7d643/367844c9-6818-4963-985d-9cfeb9d077b0/white+logo.png?format=500w)
-
-- 🔭 I’m currently working on __Super Secret__ things at The Boring Company.
+- 🔭 I’m currently working on __Super Secret__ things at Neuralink.
 - 👯 I’m looking to collaborate on anyone that can make an easy to use VSLAM library outside of the C ecosystem or drones.
 - 💬 Ask me about robotics simulation.
 
